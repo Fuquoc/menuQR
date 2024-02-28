@@ -1,0 +1,27 @@
+{
+  "name": "rest-menu-qr",
+  "version": "1.0.0",
+  "description": "a nodejs restful API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fuquoc/menuQR.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "API"
+  ],
+  "author": "Phu Quoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fuquoc/menuQR/issues"
+  },
+  "homepage": "https://github.com/Fuquoc/menuQR#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
